@@ -1,0 +1,33 @@
+body{
+    background-color: #eec6db;
+}
+h1{
+    color: #033736;
+}
+
+.container my-4 {
+    display: flex;
+    
+}
+
+#button {
+    background-color:#62806c ;
+}
+
+h4{
+    color: #f7ebf4;
+}
+
+.container-fluid {
+
+    background-color: #62806c;
+}
+
+.form-control{
+    background-color: #b6667d;
+    color: #f7ebf4;
+    text-align: left;
+    font-size: 16px;
+    margin: 2px 800px;
+    margin-right: 5px;
+}
